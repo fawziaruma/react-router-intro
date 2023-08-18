@@ -1,0 +1,8 @@
+nav{
+    display: flex;
+    justify-content: center;
+ 
+}
+.nav-bar{
+    margin:10px;
+}
